@@ -1,0 +1,10 @@
+sts-4.11.0.RELEASE
+https://youtube.com/watch?v=rpcoHCXgGnQ&feature=shares
+https://getinthere.tistory.com/16
+
+Spring Boot DevTools : 자동재시작
+Lombok : getter, setter 자동생성
+Spring Data JPA : ORM사용
+Maria Driver
+Spring Security : 보안기능 제공 라이브러리
+spring web : WEB MVC를 사용하여 웹 애플리케이션을 만드는데 필요한 스프링부트의 기본적인 요소를 가짐. 내장형 컨테이너로 톰캣을 기본탑재하고 있다.
